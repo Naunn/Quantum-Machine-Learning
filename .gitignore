@@ -1,0 +1,8 @@
+# Byte-compiled / optimized / DLL files
+*__pycache__/
+*.py[cod]
+
+# Spyder project settings
+.spyderproject
+.spyproject
+spyder_crash.log
